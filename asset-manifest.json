@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kounelios13.github.io/csb-wcht3/static/css/main.1403a903.chunk.css",
+    "main.js": "https://kounelios13.github.io/csb-wcht3/static/js/main.6dfca2d7.chunk.js",
+    "main.js.map": "https://kounelios13.github.io/csb-wcht3/static/js/main.6dfca2d7.chunk.js.map",
+    "runtime-main.js": "https://kounelios13.github.io/csb-wcht3/static/js/runtime-main.629753c3.js",
+    "runtime-main.js.map": "https://kounelios13.github.io/csb-wcht3/static/js/runtime-main.629753c3.js.map",
+    "static/js/2.cb56d5b3.chunk.js": "https://kounelios13.github.io/csb-wcht3/static/js/2.cb56d5b3.chunk.js",
+    "static/js/2.cb56d5b3.chunk.js.map": "https://kounelios13.github.io/csb-wcht3/static/js/2.cb56d5b3.chunk.js.map",
+    "index.html": "https://kounelios13.github.io/csb-wcht3/index.html",
+    "static/css/main.1403a903.chunk.css.map": "https://kounelios13.github.io/csb-wcht3/static/css/main.1403a903.chunk.css.map",
+    "static/js/2.cb56d5b3.chunk.js.LICENSE.txt": "https://kounelios13.github.io/csb-wcht3/static/js/2.cb56d5b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.629753c3.js",
+    "static/js/2.cb56d5b3.chunk.js",
+    "static/css/main.1403a903.chunk.css",
+    "static/js/main.6dfca2d7.chunk.js"
+  ]
+}
